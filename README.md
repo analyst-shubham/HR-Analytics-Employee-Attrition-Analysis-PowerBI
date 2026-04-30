@@ -5,7 +5,7 @@ patterns across departments, salary bands, age groups, and
 job satisfaction levels.
 
 ## Dashboard Preview
-![Dashboard Preview](images/dashboard-preview.jpg)
+![Dashboard Preview](images/dashboard_preview.jpg)
 
 ## Project Overview
 Analyzed HR data of 1,470+ employees to identify key drivers 
